@@ -1,0 +1,25 @@
+{
+  "name": "solr-export",
+  "version": "0.0.0",
+  "description": "solr-export ===========",
+  "main": "index.js",
+  "dependencies": {
+    "solr-client": "~0.2.7",
+    "async": "~0.2.9",
+    "convict": "~0.4.0"
+  },
+  "private": true,
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mrlannigan/solr-export.git"
+  },
+  "author": "Julian Lannigan",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/mrlannigan/solr-export/issues"
+  }
+}
